@@ -1,4 +1,6 @@
-## Take test and train data and Merge into 1 dat set.
+## Download files from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+## Restore into c:\r\final
+## Take test and train data and Merge into 1 data set.
 
 
 # Read names of 561 columns to be used as headers throughout process:
