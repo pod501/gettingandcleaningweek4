@@ -7,4 +7,4 @@ README.txt 	=> This file.
 
 CodeBook.md 	=> Contains instructions on data transformation.
 
-datacleans.r 	=> Program which runs the analysis.
+runanalysis.r 	=> Program which runs the analysis.
